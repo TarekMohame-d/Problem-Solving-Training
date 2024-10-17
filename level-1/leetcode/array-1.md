@@ -37,15 +37,15 @@
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-an-ordered-stream/">design an ordered stream ✅</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-all-odd-length-subarrays/">sum of all odd length subarrays</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-all-odd-length-subarrays/">sum of all odd length subarrays ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-good-triplets/">count good triplets</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-highest-altitude/">find the highest altitude</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-good-triplets/">count good triplets ✅</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-highest-altitude/">find the highest altitude ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-time-visiting-all-points/">minimum time visiting all points</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flipping-an-image/">flipping an image</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-time-visiting-all-points/">minimum time visiting all points ✅</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flipping-an-image/">flipping an image ✅</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/">cells with odd values in a matrix</a></th>
