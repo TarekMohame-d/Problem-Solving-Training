@@ -80,10 +80,10 @@
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/">number of students doing homework at a given time ✅</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">find n unique integers sum up to zero</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">find n unique integers sum up to zero ✅</a></th>
         </tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-balls-in-a-box/">maximum number of balls in a box</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/height-checker/">height checker</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-balls-in-a-box/">maximum number of balls in a box ✅</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/height-checker/">height checker ✅</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/spiral-matrix-ii/">spiral matrix ii</a></th>
