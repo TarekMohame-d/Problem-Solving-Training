@@ -76,10 +76,10 @@
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-sightseeing-pair/">best sightseeing pair</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/third-maximum-number/">third maximum number</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/third-maximum-number/">third maximum number ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/">number of students doing homework at a given time</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/">number of students doing homework at a given time ✅</a></th>
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">find n unique integers sum up to zero</a></th>
         </tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-balls-in-a-box/">maximum number of balls in a box</a></th>
