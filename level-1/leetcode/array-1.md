@@ -48,8 +48,8 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flipping-an-image/">flipping an image ✅</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/">cells with odd values in a matrix</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">find numbers with even number of digits</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/">cells with odd values in a matrix ✅</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">find numbers with even number of digits ✅</a></th>
         </tr>
     </tbody>
 </table>
@@ -68,11 +68,11 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/">maximum sum of two non overlapping subarrays</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/matrix-diagonal-sum/">matrix diagonal sum</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/matrix-diagonal-sum/">matrix diagonal sum ✅</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-population-year/">maximum population year</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">maximum product of two elements in an array</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">maximum product of two elements in an array ✅</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-sightseeing-pair/">best sightseeing pair</a></th>
